@@ -2,8 +2,7 @@
 
 # Python Practice by Mythili Sivasubramanian
 
-Welcome to my **Python Learning Journey**.
-This repository contains Python programs I have written while learning step-by-step, from basics to mini projects.
+Welcome to my **Python Learning Journey**. This repository is a structured learning log for Python fundamentals through hands-on exercises.
 
 ---
 
@@ -11,62 +10,60 @@ This repository contains Python programs I have written while learning step-by-s
 
 | Folder | Description |
 |---------|-------------|
-| `01_Basics` | Input/output, variables, data types, type casting, and simple math problems. |
-| `02_IfElse` | Conditional logic using `if`, `elif`, `else`, nested conditions, and logical operators. |
-| `03_Loops` | `for`/`while` loops, nested loops, pattern problems, and control flow. |
-| `04_Functions` | Functions with parameters, return values, recursion basics, and reusable logic. |
-| `05_Lists` | List operations, indexing/slicing, comprehensions, sorting, and list-based practice tasks. |
-| `06_Dictionaries` | Dictionary creation, updates, deletions, loops, comprehensions, and nested dictionaries. |
-| `07_Sets` | Set creation, union/intersection/difference, subset checks, and deduplication use cases. |
-| `07_02_Tuples` | Tuple basics, indexing/slicing, packing/unpacking, and comparison/sorting usage. |
-| `08_Strings` | String methods, slicing, formatting, cleaning, counting, and transformation practice. |
-| `09_File_Handling` | File modes, read/write operations, `with` statement, CSV and JSON basics. |
-| `10_Exception_Handling` | Topic folder created (README-level notes currently). |
-| `11_Modules_Packages` | Topic folder created (README-level notes currently). |
-| `12_OOP` | Topic folder created (README-level notes currently). |
-| `13_Iterators_Generators` | Topic folder created (README-level notes currently). |
-| `14_Functional_Programming` | Topic folder created (README-level notes currently). |
-| `15_Utility_Scripts` | Small practical scripts (e.g., converters, counters, helpers). |
-| `16_Mini_Projects` | Mini projects combining multiple concepts. |
-| `My_projects` | Personal project work (e.g., `smart_data_cleaner`). |
+| 01_Basics | Input/output, variables, data types, casting, and beginner problem-solving. |
+| 02_IfElse | Conditional logic with if, elif, else, nested checks, and validations. |
+| 03_Loops | for/while loops, counters, pattern tasks, and iterative logic. |
+| 04_Functions | Function basics, parameters, return values, and reusable logic. |
+| 05_Lists | List operations, indexing/slicing, list methods, and practice tasks. |
+| 06_Dictionaries | Dictionary operations, traversal, updates, and nested usage. |
+| 07_Sets | Set operations (union, intersection, difference) and deduplication use cases. |
+| 07_02_Tuples | Tuple creation, indexing/slicing, packing/unpacking, and comparisons. |
+| 08_Strings | String cleaning, slicing, formatting, counting, and transformations. |
+| 09_File_Handling | File read/write modes, context managers, and basic CSV/JSON handling. |
+| 10_Exception_Handling | Notes and examples for robust error handling (try/except/finally). |
+| 11_Modules_Packages | Notes and examples for imports, modularity, and package structure. |
+| 12_OOP | Classes, objects, __init__, object attributes, methods, and class attributes. |
+| 13_Iterators_Generators | Topic area for lazy iteration and custom iteration workflows. |
+| 14_Functional_Programming | Notes and examples for functional style (map, filter, etc.). |
+| 15_Utility_Scripts | Small practical scripts and everyday automation helpers. |
+| 16_Mini_Projects | End-to-end mini projects combining multiple concepts. |
+| My_projects | Personal projects (for example, smart_data_cleaner). |
 
 ---
 
-## Concepts Covered So Far
-- Input/output and variables
-- Data types and type casting
-- Arithmetic and comparison operators
-- Conditional statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions
-- Lists
-- Dictionaries
-- Sets
-- Tuples
-- Strings
+## Concepts Practiced So Far
+
+- Variables and data types
+- Conditionals and control flow
+- Loops and iterative problem-solving
+- Functions and code reuse
+- Core data structures: lists, dictionaries, sets, tuples
+- String operations
 - Basic file handling
-- Utility scripts and mini project practice
+- Introductory OOP
+- Utility scripting
 
 ---
 
 ## Current Focus
-- Strengthening problem-solving with cleaner Python code
-- Building mini projects and utility scripts
-- Organizing projects with better structure and documentation
+
+- Strengthen clean coding habits and readability
+- Build confidence in OOP and modular design
+- Keep adding small practical scripts and mini-projects
 
 ---
 
-## Next Goals
-- Add implementations in `10_Exception_Handling`
-- Add implementations in `11_Modules_Packages`
-- Start core exercises in `12_OOP`
-- Practice `13_Iterators_Generators` and `14_Functional_Programming`
-- Expand `My_projects` with end-to-end practical scripts
+## Next Learning Goals
+
+- Expand implementations in 10_Exception_Handling and 11_Modules_Packages
+- Add more practice in 13_Iterators_Generators and 14_Functional_Programming
+- Build larger project-style exercises in 16_Mini_Projects
 
 ---
 
 ## About This Repo
-This repository is my learning log and practice ground to build strong Python foundations and move toward practical automation and data-focused projects.
+
+This repository tracks continuous Python practice with a focus on strong fundamentals and practical application.
 
 > *Code a little every day. Consistency builds mastery.*
 
