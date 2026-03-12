@@ -1,8 +1,6 @@
----
-
 # Python Practice by Mythili Sivasubramanian
 
-Welcome to my **Python Learning Journey**. This repository is a structured learning log for Python fundamentals through hands-on exercises.
+Welcome to my Python learning journey. This repo is a structured, hands-on practice log focused on fundamentals and small projects.
 
 ---
 
@@ -28,6 +26,7 @@ Welcome to my **Python Learning Journey**. This repository is a structured learn
 | 15_Utility_Scripts | Small practical scripts and everyday automation helpers. |
 | 16_Mini_Projects | End-to-end mini projects combining multiple concepts. |
 | My_projects | Personal projects (for example, smart_data_cleaner). |
+| tasks.txt | Personal task tracker and study checklist. |
 
 ---
 
@@ -65,5 +64,4 @@ Welcome to my **Python Learning Journey**. This repository is a structured learn
 
 This repository tracks continuous Python practice with a focus on strong fundamentals and practical application.
 
-> *Code a little every day. Consistency builds mastery.*
-
+> Code a little every day. Consistency builds mastery.
